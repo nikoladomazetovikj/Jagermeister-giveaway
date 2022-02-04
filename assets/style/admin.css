@@ -1,0 +1,70 @@
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: block !important;
+}
+/* admin panel */
+.panel-h {
+  height: 100% !important;
+  overflow-x: hidden;
+  position: fixed;
+  z-index: 1;
+  width: 300px !important;
+}
+.card-margin {
+  margin-left: 300px !important;
+}
+.img-fluid {
+  max-width: 100% !important;
+  height: 10rem !important;
+}
+
+.btn-group,
+.btn-vertical {
+  display: block !important;
+}
+
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden !important;
+  }
+  .panel-h {
+    width: 160px !important;
+  }
+  .modal-content {
+    width: 70% !important;
+  }
+  .card-margin {
+    margin-left: 160px !important;
+  }
+}
+
+@media (max-width: 425px) {
+  h1 {
+    font-size: 18px;
+  }
+  p {
+    font-size: 12px;
+  }
+  h3 {
+    font-size: 14px;
+  }
+  .btn {
+    font-weight: 500 !important;
+    padding: 0.7rem 0.5rem !important;
+    margin-bottom: 2rem !important;
+  }
+  .panel-h {
+    width: 120px !important;
+  }
+  .card-margin {
+    margin-left: 120px !important;
+  }
+  .btn {
+    font-weight: 200 !important;
+    padding: 0.2rem 0.3rem !important;
+    margin-bottom: 1rem !important;
+  }
+}

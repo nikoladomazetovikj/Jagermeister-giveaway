@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+body {
+  background-image: url(../bg-Img/bg.jpg) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 100vh;
+  width: 100%;
+  background-attachment: fixed !important;
+  overflow-x: hidden !important;
+}
+
+.logo {
+  width: 150px;
+  height: 200px;
+}
+.jager {
+  font-family: "Germania One", cursive;
+}
+img {
+  max-width: 100%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after {
+  content: ">";
+  font-size: 55px;
+  color: rgba(0, 0, 0, 0.733);
+}
+
+.carousel-control-prev-icon:after {
+  content: "<";
+  font-size: 55px;
+  color: rgba(0, 0, 0, 0.733);
+}
+
+.border-red {
+  border: 2px solid red !important;
+}
+
+@media (max-width: 425px) {
+  .carousel-control-next-icon:after,
+  .carousel-control-prev-icon:after {
+    font-size: 25px;
+  }
+  h1 {
+    font-size: 20px !important;
+  }
+}

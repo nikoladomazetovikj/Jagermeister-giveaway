@@ -1,0 +1,15 @@
+[2021-11-14 16:46:36]: SQLSTATE[HY000] [1049] Unknown database 'jagermeiste'
+[2021-11-14 16:47:05]: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[2021-11-14 16:47:11]: SQLSTATE[HY000] [1045] Access denied for user 'ro'@'localhost' (using password: NO)
+[2021-11-21 02:02:37]: SQLSTATE[HY000] [1049] Unknown database 'jagermeister'
+[2021-11-26 18:00:06]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-04 18:26:39]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-04 22:12:15]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-05 21:56:26]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-18 02:39:14]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-18 03:56:24]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-18 15:41:28]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-18 22:54:08]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-19 11:00:35]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-23 00:55:06]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2021-12-23 14:41:56]: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
