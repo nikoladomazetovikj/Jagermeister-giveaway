@@ -1,0 +1,17 @@
+{
+    "name": "nikola/jagermeister-giveaway",
+    "description": "Jagermeister-Giveaway",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nikola\\JagermeisterGiveaway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikoladomazetovikj",
+            "email": "nikolad150@gmail.com"
+        }
+    ],
+    "require": {}
+}
